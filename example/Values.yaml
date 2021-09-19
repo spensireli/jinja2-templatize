@@ -1,0 +1,15 @@
+exampleOne:
+  Name: "ExampleOne"
+  Description: "This is example one that uses yaml."
+  Parameters:
+    Environment: "dev"
+    Owner: "John Doe"
+    Application: "ExampleOne"
+
+exampleTwo:
+  Name: "ExampleTwo"
+  Description: "This is example one that uses json."
+  Parameters:
+    Environment: "dev"
+    Owner: "Jane Doe"
+    Application: "ExampleTwo"

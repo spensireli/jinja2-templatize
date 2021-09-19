@@ -1,0 +1,9 @@
+{
+    "TemplateName": "{{ exampleTwo.Name }}",
+    "Description": " {{exampleTwo.Description }}",
+    "Parameters": {
+        "Environment": "{{ exampleTwo.Parameters.Environment }}",
+        "Owner": "{{ exampleTwo.Parameters.Owner }}",
+        "Application": "{{ exampleTwo.Parameters.Application }}"
+    }
+}

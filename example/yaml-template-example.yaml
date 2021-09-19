@@ -1,0 +1,6 @@
+TemplateName: "{{ exampleOne.Name }}"
+Description: "{{ exampleOne.Description }}"
+Parameters:
+  Environment: "{{ exampleOne.Parameters.Environment }}"
+  Owner: "{{ exampleOne.Parameters.Owner }}"
+  Application: "{{ exampleOne.Parameters.Application }}"
